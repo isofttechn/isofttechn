@@ -119,12 +119,9 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
+<div class="footer" align="center" style="margin:15px; background-color: #8f52ff00">
     <a href="https://isofttechn.app/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/isofttechn/Github-User-Finder/blob/master/logo.png?raw=true" alt="Abraham William" width="100px"/>
-    </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
     </a>
     <a href="mailto:web3abraham@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
