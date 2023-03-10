@@ -9,7 +9,13 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
 <br>
 <div align="center">
 
-[Email Me](mailto:web3abraham@gmail.com)
+<a href="https://isofttechn.app/" target="_blank">
+        Website
+    </a>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+    <a href="mailto:web3abraham@gmail.com" target="_blank">
+       Email Me
+    </a>
 </div>
 </p>    
 <br>
@@ -121,10 +127,11 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px; background-color: #8f52ff00">
     <a href="https://isofttechn.app/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://github.com/isofttechn/Github-User-Finder/blob/master/logo.png?raw=true" alt="Abraham William" width="100px"/>
+        Website
     </a>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
     <a href="mailto:web3abraham@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+       Email Me
     </a>
 </div>
 <!-- End Footer -->
